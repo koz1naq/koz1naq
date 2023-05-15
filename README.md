@@ -9,7 +9,7 @@ I'm a junior product analyst🤘
 * 🌍  I'm based in Moscow, but open to relocate
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Shestak13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shestak13)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dj.spanish@mail.ru)
-* 🌱 I’m currently learning Puthon (intermediate lvl, something about that), complex SQL, machine learning methods, algorithms and math statitstics for sure.
+* 🌱 I’m currently learning Python (intermediate lvl, something about that), complex SQL, machine learning methods, algorithms and math statitstics for sure.
 
 ### 🧠 Skills
 
