@@ -7,7 +7,7 @@ I'm a junior product analyst🤘
 \- I first started this path in 2021 with a wish to change my profession and started to read lots of material. Then i finished lot of of courses at Stepik and decided to go for a big one and started course for data scientist at Yandex Practicum, which i successfully finished🐤 - Now i'm looking for a job and challenge to prove myself🦾
 
 * 🌍  I'm based in Moscow, but open to relocate
-* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-Shestak13-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/shestak13)
+* ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-MrNeimless-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrNeimless)
 [![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dj.spanish@mail.ru)
 * 🌱 I’m currently learning Python (intermediate lvl, something about that), complex SQL, machine learning methods, algorithms and math statitstics for sure.
 
