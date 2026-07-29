@@ -1,15 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sergey
 ==============================================================================================================================
 
-I'm a junior product analyst🤘
+I'm a product analyst🤘
 ------------------------------
 
-\- I first started this path in 2021 with a wish to change my profession and started to read lots of material. Then i finished lot of of courses at Stepik and decided to go for a big one and started course for data scientist at Yandex Practicum, which i successfully finished🐤 - Now i'm looking for a job and challenge to prove myself🦾
+\- I first started this path at the end of 2022 with a wish to change my profession and started to read lots of material. Then after lots of months of studying, a made my way to my first projects at Yandex Practicum, where i felt how real stuff got. 
+Now I have 3 years of experience, in different instruments: SQL DQL,DDL and DML, complex Python scripts and projects, thorough multi level dashboards (Tableau, SuperSet, DataLens). But also instruments, but got quite familiar with differnt kind of research: A/B testing from idea to statistically significant results, models of various cohort analysis, discovery research and so on. I just love to "dig in" the data and find something worthwhile:)
 
-* 🌍  I'm based in Moscow, but open to relocate
+I try to post my different projects here!
+
 * ✉️  You can contact me at [![Telegram Badge](https://img.shields.io/badge/-MrNeimless-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/MrNeimless)
-[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dj.spanish@mail.ru)
-* 🌱 I’m currently learning Python (intermediate lvl, something about that), complex SQL, machine learning methods, algorithms and math statitstics for sure.
+[![Gmail Badge](https://img.shields.io/badge/-Mail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dj.spanishh@gmail.com)
 
 ### 🧠 Skills
 
@@ -39,11 +40,5 @@ I'm a junior product analyst🤘
 <p align="left"> 
   <a href="https://www.github.com/koz1naq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" height="40" />
   </a> 
-  <a href="https://www.linkedin.com/in/sergey-shestak-849610252" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
+  <a href="https://rs.linkedin.com/in/mrneimless" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="40" height="40" />
   </a> 
-  <a href="https://www.stackoverflow.com/users/21672986/sergey" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="40" height="40" />
-  </a>
-  <a href="https://t.me/shestak13" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
-  </a>  
-</p>
